@@ -1,5 +1,7 @@
 # Spring Boot Application with Docker
 
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=VPriyesh7.Spring-Boot-Docker)
+
 ## Overview
 
 This project demonstrates the development and containerization of a Spring Boot application using Docker. It focuses on creating a reliable and portable setup that can be consistently deployed across different environments.
