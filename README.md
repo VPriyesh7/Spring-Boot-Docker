@@ -1,6 +1,6 @@
 # Spring Boot Application with Docker
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=VPriyesh7.Spring-Boot-Docker)
+![GitHub Repo Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=visitors&url=https://api.countapi.xyz/hit/VPriyesh7/Spring-Boot-Docker)
 
 ## Overview
 
